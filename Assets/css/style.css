@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap|300');
+
+* {
+    /*margin: 0;
+    padding: 0;
+    border: 0;*/
+}
+
+
+body {
+    font-family: 'Peddana', serif;
+}
