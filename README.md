@@ -1,17 +1,11 @@
 # Kitenge
-# Mama Afrika
--------------
-###  This is a site that elaborates about the modern african fashion design that are originated from cultural african farbic known as Kitenge. Some of the African countries where kitenge is worn are
- ### Kenya, Uganda, Tanzania, Sudan, Nigeria, Cameroon, Ghana, Senegal, Liberia, Rwanda, and Democratic Republic of the Congo.
+------------------
+## A fabric that now is emerging in the African fashion world. Knowadays known as afro fashion design in the modern generation
+------------- 
 
+### This site is built for the African fashion models and designers to show cast their latest designs and Styes incorparating with the models. 
 
-## 1.KITENGE 
-------------
-- Also known as chitenge in Swahili in plural it is Vitenge. Chitenge is an East African, West African, and Central African fabric similar to sarong, often worn by women and wrapped around the chest or waist, over the head as a headscarf, or as a baby sling. 
-- Kitenges are like kangas and kikoy but are of a thicker cloth and have an edging on only a long side.
-
-
-### 2.Table of content
+### 1.Table of content
 ---------------------
 - Overview
 - Description

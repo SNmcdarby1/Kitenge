@@ -9,4 +9,15 @@
 
 body {
     font-family: 'Peddana', serif;
+    color: #777777;
+}
+h2{
+    font-family: oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #555555;
+}
+#logo{
+    float: left;
+    font-size: 280%;
 }
