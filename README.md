@@ -33,15 +33,15 @@
 ### 3.Overview
 -------------
 
- -  A user friendly site that shows diversity of african fashion that is beging to emerge into our modern culture.
-  With images and ideas that can be implenented into the fashion and design in this modern age.
-    - Making sure that the necessary pages are woking
-    - Creating an update of the program and images to meet the clients needs
-    - Updating our knowledge in a user friendly site
-    - Making the software easily accessible to the user by designing our site in responsive devices such as a mobile phone. 
-    - checking our performance
-    - Getting feedback information from our users
-    - Displaying modern images in our pages that will capture different demographics
+ -  A user friendly site that shows diversity of african modern culture designs.
+  With images and ideas that can be implenented into the modern fashion design. This site is to 
+    - Make sure that the necessary pages are woking
+    - Create an update of the program and images to meet the clients needs
+    - Update our knowledge in a user friendly site
+    - Make  the software easily accessible to the user by designing our site in responsive devices such as a mobile phone. 
+    - check our performance
+    - Get feedback information from our users
+    - Display modern images in our pages that will capture different demographics designers.
 
 ### 4.Description
 --------------------
@@ -106,7 +106,7 @@
     [gitpod](https://f4bc8abb-58a7-4a37-b776-a4d955c9ed38.ws-eu01.gitpod.io/#/workspace/mama-afrika)
  - Testing
  
- - used ROBOTO google fonts [roboto](https://fonts.google.com/specimen/Peddana?preview.text=roboto&preview.text_type=custom&sidebar.open=true&selection.family=Peddana)
+ - used ROBOTO google fonts [roboto]('https://fonts.googleapis.com/css2?family=Roboto&display=swap')
 
 
 ### c.Learning references
