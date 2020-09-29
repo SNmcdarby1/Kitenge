@@ -19,6 +19,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+
 }
 #menu{
     font-size: 110%;
@@ -29,8 +30,14 @@ h2 {
     float:right;
     margin-right: 30px;
 }
-#background-image {
+.afrika{
     height: 600px;
     width: 100%;
     background-image: url("https://images.unsplash.com/photo-1519011985187-444d62641929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80") no-repeat center center;
 }
+#afrika-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+@keyframes
