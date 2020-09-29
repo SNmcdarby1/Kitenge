@@ -71,8 +71,9 @@
 
 
 
-  ### a.Menu bar 
-  --------------
+### a.Menu bar 
+      
+ --------------
 
  - The page consists of four pages
   
@@ -87,7 +88,8 @@
 
 
 ### b.links
-----------
+
+ ----------
 
 
   * ![alt](https://links)
@@ -128,8 +130,11 @@
 
 ### f.Code validity
 -----------------------
+
  - w3c markdup validation service
 [www.validator.w3.org](https://validator.w3.org/#validate_by_input)
+
+
 
 - Troubleshooting
 # Home         | About us         | Contact us          | images
@@ -149,6 +154,8 @@
 ------------------
 
 
+
+
 ### Built With
 -----------------
  - Gitpod 
@@ -160,8 +167,11 @@
 ### 10.Creditors
 -----------------
 
+
 ### 11.Acknowledgements
 ----------------------
+
+
 
 ### 12.Key support
 -------------------------
