@@ -23,14 +23,14 @@ h2 {
 #menu{
     font-size: 110%;
     list-style-type: none;
-    letter-spacing: 4px;
+    letter-spacing: 4px;   
 }
 #menu li{
     float:right;
     margin-right: 30px;
 }
-#kitenge-image{
+.kitenge-image {
     height: 600px;
     width: 100%;
-    background: url(https://images.unsplash.com/photo-1519011985187-444d62641929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+    background-image: url("../images/kitenge.image.jpg")
 }
